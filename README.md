@@ -10,7 +10,7 @@ This code of conduct applies to the ##osx-server channel as well as ##osx-backro
 
 If you believe someone is violating the code of conduct, we ask that you report it by contacting any of the mods on channel via a direct message (DM). For more details please see our Reporting Guidelines
 
-* **Be friendly and patient.**
+* **Be friendly and patient.** As the Mac Admin community is comprised of professionals from various backgrounds and skill levels, it is important to be friendly to newcomers and patient with those that seek help on ##osx-server.
 * **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 * **Be considerate.** The help you provide is being given to other people, and you in turn will depend on the help of others. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
 * **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the ##osx-server community should be respectful when dealing with other members as well as with people outside the ##osx-server community.
