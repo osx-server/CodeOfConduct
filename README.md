@@ -8,7 +8,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 
 This code of conduct applies to the ##osx-server channel as well as ##osx-backroom channel.
 
-If you believe someone is violating the code of conduct, we ask that you report it by contacting any of the mods on channel via a [direct message](http://www.wikihow.com/Private-Message-Someone-in-IRC). For more details please see our Reporting Guidelines
+If you believe someone is violating the code of conduct, we ask that you report it by contacting any of the mods on channel via a [private message](http://tldp.org/HOWTO/IRC/beginners.html). For more details please see our Reporting Guidelines
 
 * **Be friendly and patient.** As the Mac Admin community is comprised of professionals from various backgrounds and skill levels, it is important to be friendly to newcomers and patient with those that seek help on ##osx-server.
 * **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
