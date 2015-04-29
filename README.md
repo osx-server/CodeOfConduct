@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Like the OS X community as a whole, the [##osx-server](http://webchat.freenode.net/?channels=#%23osx-server) channel is made up of a mixture of professionals and volunteers from all over the world, working in every industry, using a variety of tools.
+Like the Mac Admin community as a whole, the [##osx-server](http://webchat.freenode.net/?channels=#%23osx-server) channel is made up of a mixture of professionals and volunteers from all over the world, working in every industry, using a variety of tools.
 
 Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to channel founders, mentors and those seeking help and guidance.
 
