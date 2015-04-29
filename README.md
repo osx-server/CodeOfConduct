@@ -1,4 +1,4 @@
-# CodeOfConduct
+# Code of Conduct
 
 Like the OS X community as a whole, the [##osx-server](http://webchat.freenode.net/?channels=#%23osx-server) channel is made up of a mixture of professionals and volunteers from all over the world, working in every industry, using a variety of tools.
 
